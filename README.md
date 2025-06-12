@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning 
-- coq 🐓
-- rust 
+- 🔭 I’m currently working on Novel Network Stacks
+- 🌱 I’m currently learning How to Write; Read; Program in C; Understand Computer Networks
+- 💬 Ask me about my dogs.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm 178 cm tall.
